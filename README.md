@@ -24,11 +24,11 @@ Make sure you have the necessary Python packages installed. You can set up a vir
 
 3. **Important Note**:
 
-1.*Generator.py is to create dataset to src/data.txt
+• Generator.py is to create dataset to src/data.txt
 
-2.*Main.py is using the generated dataset to train and be more accurate and accuracy is into the src/accuracy.txt
+• Main.py is using the generated dataset to train itself and be more accurate and accuracy is into the src/accuracy.txt
 
-3.*Start.py is what you need to start the prediction
+• Start.py is what you need to start the prediction
 
 Run the Model:
 Follow the instructions in the usage.md file to input your data and receive predictions.
