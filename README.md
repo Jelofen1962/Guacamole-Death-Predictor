@@ -22,6 +22,12 @@ Make sure you have the necessary Python packages installed. You can set up a vir
 Install Dependencies:
 Make sure you have the necessary Python packages installed. You can set up a virtual environment and install the dependencies using:
 
+3. **Important Note**:
+
+*Generator.py is to create dataset to src/data.txt
+*Main.py is using the generated dataset to train and be more accurate and accuracy is into the src/accuracy.txt
+*Start.py is what you need to start the prediction
+
 Run the Model:
 Follow the instructions in the usage.md file to input your data and receive predictions.
 
