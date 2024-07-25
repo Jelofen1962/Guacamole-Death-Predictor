@@ -1,0 +1,49 @@
+#Author : t.me/Jelofen1962
+#MIT Copy-Right, you can use this model but just With the CREDIT
+
+Average Accuracy is 88.58%
+
+Test Accuracy: 88.79%
+Test Accuracy: 88.72%
+Test Accuracy: 88.59%
+Test Accuracy: 88.58%
+Test Accuracy: 88.83%
+Test Accuracy: 88.81%
+Test Accuracy: 88.03%
+Test Accuracy: 88.31%
+Test Accuracy: 88.31%
+Test Accuracy: 88.35%
+Test Accuracy: 88.32%
+Test Accuracy: 88.74%
+Test Accuracy: 88.51%
+Test Accuracy: 88.74%
+Test Accuracy: 84.79%
+Test Accuracy: 84.89%
+Test Accuracy: 86.56%
+Test Accuracy: 86.38%
+Test Accuracy: 88.09%
+Test Accuracy: 84.12%
+Test Accuracy: 84.57%
+Test Accuracy: 88.24%
+Test Accuracy: 88.18%
+Test Accuracy: 86.18%
+Test Accuracy: 86.05%
+Test Accuracy: 85.70%
+Test Accuracy: 85.82%
+Test Accuracy: 85.86%
+Test Accuracy: 87.52%
+Test Accuracy: 87.43%
+Test Accuracy: 89.05%
+Test Accuracy: 87.00%
+Test Accuracy: 88.67%
+Test Accuracy: 88.67%
+Test Accuracy: 87.49%
+Test Accuracy: 87.79%
+Test Accuracy: 87.65%
+Test Accuracy: 89.13%
+Test Accuracy: 89.21%
+Test Accuracy: 87.52%
+Test Accuracy: 88.29%
+Test Accuracy: 88.30%
+Test Accuracy: 88.29%
+Test Accuracy: 88.30%
